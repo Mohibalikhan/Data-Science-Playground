@@ -6,7 +6,8 @@ A hands-on learning repository for mastering data science using Python.This incl
 1. **Download and Explore libraries**   
 2. **Working with Pandas Data Frames**    
 3. **Retrieve Data from Web in Excel/Csv Format**    
-4. **Descriptive Analytics of Iris Data Set**    
+4. **Descriptive Analytics of Iris Data Set**
+5. **Use the Data Set from Uci and find insights**    
 
 
-Lab 04 Completed ! 🚀
+Lab 05 Completed ! 🚀
