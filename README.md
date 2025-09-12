@@ -19,3 +19,34 @@ A hands-on learning repository for mastering data science using Python.This incl
 
 
 Lab 05 Completed ! 🚀
+
+# **In this we learn Clickable Image with Tooltip**
+1. This is a normal image
+![Alt Text](https://images.pexels.com/photos/33434135/pexels-photo-33434135.jpeg)
+
+2. This is tooltip image
+   - Markdown me direct tooltip option nahi hota, isliye hum HTML ka image tag use karte hain.
+   - 👉 Ab jab aap mouse hover karoge, ek chhota text bubble show hoga: Hover me to see tooltip.
+ <img src="https://images.pexels.com/photos/33814228/pexels-photo-33814228.jpeg" alt="My Image" title="Hover me to see tooltip" width="200"/>
+
+3. Image ko clickable banana
+   - Agar aap chahte ho ke image pe click karne se koi website open ho, to image ko ek link ke andar wrap kar dete hain.
+   [![My Image](https://images.pexels.com/photos/33434135/pexels-photo-33434135.jpeg)](https://google.com)
+
+5. Clickable + Tooltip ek sath (Final Form)
+   - 👉 Isme kya ho raha hai?
+   - <img> tag se image lagaya.
+   - title="Click to open Google" se tooltip add kiya.
+   - Square brackets [ ... ](https://google.com) ke andar image wrap kiya → isse image clickable ho gaya.
+   
+   [<img src="https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg" alt="My Image" title="Click to open Google" width="100"/>](https://google.com)
+
+
+# 🎯 Final Summary
+
+- Image show karna 
+- Tooltip show karna 
+- Clickable image banana 
+- Clickable + Tooltip ek sath
+
+      
