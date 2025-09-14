@@ -49,4 +49,93 @@ Lab 05 Completed ! 🚀
 - Clickable image banana 
 - Clickable + Tooltip ek sath
 
-      
+# Numbered and bulleted list formatting
+
+# Friend in Numbered
+
+### My Friends in numbers (with sequence like 1. 2. 3.)
+1. Kaif 
+2. Kapil
+3. Usama
+### My Friends in numbers (same sequence like 1. 1. 1.)
+1. Kaif 
+1. Kapil
+1. Usama
+### My Friends in numbers (diffrent sequence like 1. 3. 5.)
+1. Kaif
+3. Kapil
+5. Usama
+
+### My Friends in numbers (with one line sequence)
+1. Kaif 2. Usama 3. Kapil
+### My Friends in numbers (with one line same sequence)
+1. Kaif 1. Usama 1. Kapil
+
+
+# Bullets
+### Subha Utho (no tab space)
+- Nasta 
+- Family time
+
+### Subha Utho (double tab space)
+      - Nasta
+      - Family time
+
+### Prayers (single tab space for branches)
+- Namaz
+   - Fajr
+   - Zohar
+   - Asar
+   - Mahgrib
+   - Isha
+
+### 3. Explore new trends (multi tab spaces with multi branches)
+- Data Science Roles
+   - Data Analyst
+      - Decision maker
+      - Cleaner and prepare Data for Decision
+      - Use statistics and math
+  - Data Enginner
+      - Requirement
+      - Design 
+      - Code
+      - Test
+- Artificial Intelligence Roles
+   - Automation
+      - Decision maker
+      - Cleaner and prepare Data for Decision
+      - Use statistics and math
+  - Agentic Ai
+      - Code
+      - Test
+   
+# Progamming Language (- and * works same)
+- C++
+- Python
+* typeScript
+* Sql
+
+ 
+> This is a blockquote 
+
+
+# Numbered and Bullets mixed format
+
+1. Subha Utha
+   - Nasta 
+   - Check Mails
+   - And decide Work
+2. Dupair
+   - Namaz
+   - Khana
+   - Development
+
+1. Item A  
+2. Item B
+ 
+   
+
+1. Subha Utho (without spaces)
+- nashta kia 
+- subha kam dekhe
+- family time
