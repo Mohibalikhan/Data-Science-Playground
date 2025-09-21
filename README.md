@@ -51,20 +51,21 @@ Lab 05 Completed ! 🚀
 
 # Numbered and bulleted list formatting
 
-# Friend in Numbered
+# Departments in Numbered
 
-### My Friends in numbers (with sequence like 1. 2. 3.)
-1. Kaif 
-2. Kapil
-3. Usama
-### My Friends in numbers (same sequence like 1. 1. 1.)
-1. Kaif 
-1. Kapil
-1. Usama
-### My Friends in numbers (diffrent sequence like 1. 3. 5.)
-1. Kaif
-3. Kapil
-5. Usama
+### Writing 1. 2. 3. will give sequential numbers
+1. Artificial Intelligence 
+2. Data Science
+3. Cyber Security
+
+### Even if you write 1. 1. 1. Markdown will still render them in correct order (1, 2, 3...).
+1. Artificial Intelligence
+1. Data Science
+1. Cyber Security
+### OR Even if you write 1. 4. 6. This will still render them in correct order
+1. Aritfical Intelligence
+4. Data Science
+6. Cyber Security
 
 ### My Friends in numbers (with one line sequence)
 1. Kaif 2. Usama 3. Kapil
