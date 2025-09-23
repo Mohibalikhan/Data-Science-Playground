@@ -1,4 +1,4 @@
-# [Machine_Learning](https://colab.research.google.com/drive/1Mtlveuur_5flyzxN6bfArCC-ZRZ-o-Oh#scrollTo=_qNSJKJURKK0)
+# [Machine_Learning](https://colab.research.google.com/drive/1Mtlveuur_5flyzxN6bfArCC-ZRZ-o-Oh?usp=sharing)
 A hands-on learning repository for mastering Machine learning using Python.This includes data retrieval, analysis, and visualization using libraries like Pandas, NumPy, Matplotlib, SciPy, and more. Perfect for beginners practicing real-world datasets and exploring insights through charts and plots.
 
 
@@ -49,7 +49,7 @@ Lab 05 Completed ! 🚀
 - Clickable image banana 
 - Clickable + Tooltip ek sath
 
-# Numbered and bulleted list formatting
+## Numbered and bulleted list formatting
 
 # Departments in Numbered
 
@@ -58,14 +58,20 @@ Lab 05 Completed ! 🚀
 2. Data Science
 3. Cyber Security
 
+
+
 ### Even if you write 1. 1. 1. Markdown will still render them in correct order (1, 2, 3...).
 1. Artificial Intelligence
 1. Data Science
 1. Cyber Security
+
+
 ### OR Even if you write 1. 4. 6. This will still render them in correct order
 1. Aritfical Intelligence
 4. Data Science
 6. Cyber Security
+
+
 
 ### My Friends in numbers (with one line sequence)
 1. Kaif 2. Usama 3. Kapil
@@ -73,7 +79,28 @@ Lab 05 Completed ! 🚀
 1. Kaif 1. Usama 1. Kapil
 
 
-# Bullets
+
+# Programming languages and Roles in Bullet Format
+
+## Progamming Languages (- and * works same)
+
+
+- C++
+- Python
+* typeScript
+* javaScript
+
+
+
+## Data Science (multi tab spaces with multi branches)
+
+- Data Science Roles
+   - Data Analyst
+      - Decision maker
+      - Use statistics and math
+      - Cleaner and prepare Data for Decision
+      
+
 ### Subha Utho (no tab space)
 - Nasta 
 - Family time
@@ -100,21 +127,6 @@ Lab 05 Completed ! 🚀
       - Requirement
       - Design 
       - Code
-      - Test
-- Artificial Intelligence Roles
-   - Automation
-      - Decision maker
-      - Cleaner and prepare Data for Decision
-      - Use statistics and math
-  - Agentic Ai
-      - Code
-      - Test
-   
-# Progamming Language (- and * works same)
-- C++
-- Python
-* typeScript
-* Sql
 
  
 > This is a blockquote 
@@ -140,3 +152,6 @@ Lab 05 Completed ! 🚀
 - nashta kia 
 - subha kam dekhe
 - family time
+
+
+# [Agentic Ai Pydantic Concept](https://colab.research.google.com/drive/1WU1Xx7dinPyciEe-v2cGWScj3ZaeC2to?usp=sharing)
