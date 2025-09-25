@@ -3,7 +3,12 @@ A hands-on learning repository for mastering Machine learning using Python.This 
 
 
 ## **Labs Include**
-1. **Implement linear regression using python**   
+1. **Implement linear regression using python**
+2. **Implement k-nearest neighbor classification using python**
+
+
+Lab 03 Completed ! 🚀
+
 
 
 # [Data-Science-Playground](https://colab.research.google.com/drive/1e4OPmfy5Fbq7PQ19Vfczdjj7bdFjwzHY?usp=sharing)
