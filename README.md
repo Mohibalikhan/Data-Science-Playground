@@ -3,11 +3,14 @@ A hands-on learning repository for mastering Machine learning using Python.This 
 
 
 ## **Labs Include**
-1. **Implement linear regression using python**
-2. **Implement k-nearest neighbor classification using python**
+2. **Implement linear regression using python**
+3. **Implement k-nearest neighbor classification using python**
+4. **Implement k-Means_Clustering using python**
+5. **Bayes Theorem Rule**
 
 
-Lab 03 Completed ! 🚀
+
+Lab 05 Completed ! 🚀
 
 
 
