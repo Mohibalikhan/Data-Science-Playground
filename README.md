@@ -1,12 +1,12 @@
 # [Machine_Learning](https://colab.research.google.com/drive/1Mtlveuur_5flyzxN6bfArCC-ZRZ-o-Oh?usp=sharing)
 A hands-on learning repository for mastering Machine learning using Python.This includes data retrieval, analysis, and visualization using libraries like Pandas, NumPy, Matplotlib, SciPy, and more. Perfect for beginners practicing real-world datasets and exploring insights through charts and plots.
 
-
 ## **Labs Include**
 2. **Implement linear regression using python**
 3. **Implement k-nearest neighbor classification using python**
 4. **Implement k-Means_Clustering using python**
 5. **Bayes Theorem Rule**
+- **Supervisied Learning Presentation (Faheem Abbasi) 5 Marks**
 
 
 
