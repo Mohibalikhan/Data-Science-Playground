@@ -7,10 +7,11 @@ A hands-on learning repository for mastering Machine learning using Python.This 
 4. **Implement k-Means_Clustering using python**
 5. **Bayes Theorem Rule**
 - **Supervisied Learning Presentation (Faheem Abbasi) 5 Marks**
+6. **Implement Naive Bayes Theorem to classify the English Text using python**
 
 
 
-Lab 05 Completed ! 🚀
+Lab 06 Completed ! 🚀
 
 
 
