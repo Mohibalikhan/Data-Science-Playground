@@ -8,10 +8,12 @@ A hands-on learning repository for mastering Machine learning using Python.This 
 5. **Bayes Theorem Rule**
 - **Supervisied Learning Presentation (Faheem Abbasi) 5 Marks**
 6. **Implement Naive Bayes Theorem to classify the English Text using python**
+7. **Implement an algorithm to demonstrate the significance of Genetic Algorithm in python**
 
 
 
-Lab 06 Completed ! 🚀
+
+Lab 07 Completed ! 🚀
 
 
 
