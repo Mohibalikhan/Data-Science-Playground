@@ -10,6 +10,8 @@ A hands-on learning repository for mastering Machine learning using Python.This 
 6. **Implement Naive Bayes Theorem to classify the English Text using python**
 7. **Implement an algorithm to demonstrate the significance of Genetic Algorithm in python**
 8. **Implement an algorithm to demonstrate Back Propagation Algorithm in python**
+- **Final Assignment of Machine Learning**
+
 
 
 
