@@ -1,5 +1,5 @@
-# [Machine_Learning](https://colab.research.google.com/drive/1Mtlveuur_5flyzxN6bfArCC-ZRZ-o-Oh?usp=sharing)
-A hands-on learning repository for mastering Machine learning using Python.This includes data retrieval, analysis, and visualization using libraries like Pandas, NumPy, Matplotlib, SciPy, and more. Perfect for beginners practicing real-world datasets and exploring insights through charts and plots.
+# [Machine_Learning (LAB) SEM:6](https://colab.research.google.com/drive/1Mtlveuur_5flyzxN6bfArCC-ZRZ-o-Oh?usp=sharing)
+This repository covers the implementation of core Machine Learning algorithms using Python, including Linear Regression, K-Nearest Neighbors (KNN) Classification, and K-Means Clustering. It also explores probabilistic models such as Bayes’ Theorem and Naive Bayes for English text classification.
 
 ## **Labs Include**
 2. **Implement linear regression using python**
@@ -20,7 +20,7 @@ Lab 08 Completed ! 🚀
 
 
 
-# [Data-Science-Playground](https://colab.research.google.com/drive/1e4OPmfy5Fbq7PQ19Vfczdjj7bdFjwzHY?usp=sharing)
+# [Data-Science-Playground (LAB) SEM:5](https://colab.research.google.com/drive/1e4OPmfy5Fbq7PQ19Vfczdjj7bdFjwzHY?usp=sharing)
 A hands-on learning repository for mastering data science using Python.This includes data retrieval, analysis, and visualization using libraries like Pandas, NumPy, Matplotlib, SciPy, and more. Perfect for beginners practicing real-world datasets and exploring insights through charts and plots.
 
 
