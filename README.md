@@ -1,3 +1,7 @@
+# [Udemy Course Data Science](https://colab.research.google.com/drive/13o8kK-ldKjFiL68IY5eERVDgEEt-ul2k?usp=sharing)
+This repository covers Master Python for Data Science with Real-World Applications: Dive Deep into Data Analysis, Machine Learning
+
+
 # [Machine_Learning (LAB) SEM:6](https://colab.research.google.com/drive/1Mtlveuur_5flyzxN6bfArCC-ZRZ-o-Oh?usp=sharing)
 This repository covers the implementation of core Machine Learning algorithms using Python, including Linear Regression, K-Nearest Neighbors (KNN) Classification, and K-Means Clustering. It also explores probabilistic models such as Bayes’ Theorem and Naive Bayes for English text classification.
 
