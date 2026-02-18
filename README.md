@@ -1,3 +1,7 @@
+# [Data Mining (LAB) SEM:7](https://colab.research.google.com/drive/1hCftRwLOcmHua_Q7CfuBwZB47x80LjBu?usp=sharing)
+This repository covers Master Data Science with Real-World Applications: Dive Deep into Data mining and ETL process.
+
+
 # [Udemy Course Data Science](https://colab.research.google.com/drive/13o8kK-ldKjFiL68IY5eERVDgEEt-ul2k?usp=sharing)
 This repository covers Master Python for Data Science with Real-World Applications: Dive Deep into Data Analysis, Machine Learning
 
