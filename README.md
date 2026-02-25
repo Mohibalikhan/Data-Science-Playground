@@ -1,5 +1,12 @@
 # [Data Mining (LAB) SEM:7](https://colab.research.google.com/drive/1hCftRwLOcmHua_Q7CfuBwZB47x80LjBu?usp=sharing)
 This repository covers Master Data Science with Real-World Applications: Dive Deep into Data mining and ETL process.
+## **Labs Include**
+1. **Data Mining Process & Logistic Regression using Titanic Dataset**
+
+
+# [Big Data Analytics (LAB) SEM:7](https://colab.research.google.com/drive/10wab_EQlC4pIKVTDfHGpbNcOFqhBfZc-?usp=sharing)
+This repository covers Big Data Analytics with Real-World Applications.
+
 
 
 # [Udemy Course Data Science](https://colab.research.google.com/drive/13o8kK-ldKjFiL68IY5eERVDgEEt-ul2k?usp=sharing)
