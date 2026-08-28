@@ -1,15 +1,17 @@
+# [Data Visualization Mam Atia (LAB) SEM:8](https://colab.research.google.com/drive/10wab_EQlC4pIKVTDfHGpbNcOFqhBfZc-?usp=sharing)
+This repository covers Data Visualization with Real-World Databases.
+## **Labs Include**
+1. **Database Prepare for Analysis and Bar Visualization**
+2. **Practice Creating Bar and Scatter Charts**
+
+
+
 # [Data Mining Sir Junaid (LAB) SEM:7](https://colab.research.google.com/drive/1hCftRwLOcmHua_Q7CfuBwZB47x80LjBu?usp=sharing)
 This repository covers Master Data Science with Real-World Applications: Dive Deep into Data mining and ETL process.
 ## **Labs Include**
 1. **Data Mining Process & Logistic Regression using Titanic Dataset**
 2. **Data Mining Process & Decision Tree Classification**
 3. **Data Mining Process & KNN Classification**
- 
-
-
-# [Big Data Analytics Mam Atia (LAB) SEM:7](https://colab.research.google.com/drive/10wab_EQlC4pIKVTDfHGpbNcOFqhBfZc-?usp=sharing)
-This repository covers Big Data Analytics with Real-World Applications.
-
 
 
 # [Udemy Course Data Science](https://colab.research.google.com/drive/13o8kK-ldKjFiL68IY5eERVDgEEt-ul2k?usp=sharing)
